@@ -104,7 +104,7 @@ const Register = props => {
             type='password'
             name='password2'
             value={password2}
-            placeholder='Password-again....'
+            placeholder='Comfirm Password...'
             onChange={onchange}
             required
             minLength='6'
